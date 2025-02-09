@@ -1,0 +1,15 @@
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\bin\Release\Calendar.exe.manifest
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\bin\Release\Calendar.application
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\bin\Release\Calendar.exe
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\bin\Release\Calendar.pdb
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\bin\Release\Calendar.xml
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.Calendar.resources
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.Resources.resources
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.exe.manifest
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.application
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.exe
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.xml
+C:\Users\Family\Documents\Visual Studio 2010\Projects\Calendar\Calendar\obj\x86\Release\Calendar.pdb

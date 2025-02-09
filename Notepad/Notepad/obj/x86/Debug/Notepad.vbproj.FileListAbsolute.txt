@@ -1,0 +1,16 @@
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.manifest
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.application
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\bin\Debug\Notepad.xml
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.FindDialog.resources
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.Notepad.resources
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.TrustInfo.xml
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.exe.manifest
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.application
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.xml
+c:\Users\Family\Documents\Visual Studio 2010\Projects\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
